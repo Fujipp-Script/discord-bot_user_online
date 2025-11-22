@@ -1,0 +1,2 @@
+[2025-08-01T11:48:42.188Z] 🤖 Discord bot started successfully
+[2025-08-01T11:48:42.189Z] 🌐 HTTP Server running on port 8080
